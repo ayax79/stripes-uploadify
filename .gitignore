@@ -1,0 +1,17 @@
+*~
+.svn
+.DS_Store
+*.iml
+*.ipr
+*.iws
+*.class
+target/
+derby.log
+activemq-data
+nb-configuration.xml
+nbactions.xml
+velocity.log
+.classpath
+.project
+.settings
+*.swp
